@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @AlexGuseinov
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me via email: hoff.ali@inbox.ru
+- 👋 Hi, I’m Ali Huseynli
+- 🌱 I’m currently learning Java
+- 📫 How to reach me via email: ali.guseynof2503@gmail.com
+- 📫 How to reach me via LinkedIn: https://www.linkedin.com/in/ali-guseynli-bb818b1ba/
 
 <!---
 AlexGuseinov/AlexGuseinov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
