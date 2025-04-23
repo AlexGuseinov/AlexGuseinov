@@ -1,16 +1,7 @@
 ### Hi there 👋 I'm Ali Huseynli
 
-I'm a backend developer and PhD researcher focused on cryptographic methods for IoT security.  
+I'm a software developer and PhD researcher focused on cryptography.  
 I enjoy building things that are secure, efficient, and just work.
-
----
-
-### 🔍 About Me
-
-- 🎓 Currently pursuing a PhD in cryptographic algorithms for IoT  
-- 💼 Backend Developer with experience in C#, Java, and Spring Boot  
-- 🔐 Interested in lightweight encryption, HW/SW co-design, and API testing  
-- 👨‍🏫 Also teaching secure coding on the side  
 
 ---
 
@@ -22,17 +13,3 @@ I enjoy building things that are secure, efficient, and just work.
 
 ---
 
-### ⚙️ Tools & Technologies
-
-`Java` · `C#` · `Spring Boot` · `PostgreSQL` · `MongoDB` · `Redis`  
-`JWT` · `OAuth2` · `JUnit` · `Docker` · `MyBatis` · `Git`
-
----
-
-### 📊 GitHub Activity
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexGuseinov&show_icons=true&theme=default)
-
----
-
-Thanks for visiting 🤝
