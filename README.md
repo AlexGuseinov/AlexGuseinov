@@ -1,33 +1,38 @@
-<h1 align="center">Hi 👋 I'm Ali Huseynli</h1>
+### Hi there 👋 I'm Ali Huseynli
 
-<p align="center">
-  💻 Back-End Developer • 🔐 Secure Coding Enthusiast • 🧠 Cryptography Researcher  
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=PhD+Researcher+%F0%9F%94%96;HW%2FSW+Cryptography+%7C+IoT+Security+Explorer;Building+secure+things+with+code+%26+coffee." alt="Typing SVG" />
-</p>
+I'm a backend developer and PhD researcher focused on cryptographic methods for IoT security.  
+I enjoy building things that are secure, efficient, and just work.
 
 ---
 
-### 📫 How to Reach Me
+### 🔍 About Me
 
-- 📧 **Email**: ali.guseynof2503@gmail.com  
-- 💼 **LinkedIn**: [linkedin.com/in/ali-guseynli-bb818b1ba](https://www.linkedin.com/in/ali-guseynli-bb818b1ba/)  
-- 🌐 **Project**: [AttributeInjection.netlify.app](https://attributeinjection.netlify.app/)
+- 🎓 Currently pursuing a PhD in cryptographic algorithms for IoT  
+- 💼 Backend Developer with experience in C#, Java, and Spring Boot  
+- 🔐 Interested in lightweight encryption, HW/SW co-design, and API testing  
+- 👨‍🏫 Also teaching secure coding on the side  
 
 ---
 
-### 🧠 Research & Interests
+### 📫 Contact
 
-```bash
-> whoami
-Ali Huseynli | Co-author of AttributeInjection
+- 📧 Email: ali.guseynof2503@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/ali-guseynli-bb818b1ba](https://www.linkedin.com/in/ali-guseynli-bb818b1ba/)  
+- 🌐 Project: [AttributeInjection](https://attributeinjection.netlify.app/)
 
-> focus_areas
-🔐 Cryptography | 🔧 Embedded IoT Security | ☁️ Secure Architectures
+---
 
-> in_progress
-- Lightweight ciphers for resource-constrained devices
-- Hardware/software co-design using FPGA + RISC-V
-- Fault-tolerant security testing tools for APIs
+### ⚙️ Tools & Technologies
+
+`Java` · `C#` · `Spring Boot` · `PostgreSQL` · `MongoDB` · `Redis`  
+`JWT` · `OAuth2` · `JUnit` · `Docker` · `MyBatis` · `Git`
+
+---
+
+### 📊 GitHub Activity
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexGuseinov&show_icons=true&theme=default)
+
+---
+
+Thanks for visiting 🤝
